@@ -16,7 +16,7 @@
         align-items: center;
         background-color: white;
         width: 345px;
-        height: 485px;
+        height: 500px;
         border: 1px solid;
         border-color: rgb(100, 100, 100);
         border-radius: 15px;
@@ -78,7 +78,8 @@
         width: 40px;
         height: 40px;
       }
-      .Greg {
+      .Greg,p {
         font-weight: 800;
+        padding-top: 10px;
       }
     
