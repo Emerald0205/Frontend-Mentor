@@ -7,9 +7,13 @@
      body {
       background-color: hsl(47, 88%, 63%);
       box-sizing: border-box;
+      justify-items: center;
+      padding-top: 80px;
+      padding-bottom: 80px;
      }
 
      .body {
+        align-items: center;
         background-color: white;
         width: 345px;
         height: 485px;
